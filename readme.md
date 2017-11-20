@@ -1,17 +1,17 @@
-《R的极客理想-高级开发篇》
+《R的极客理想-量化投资篇》
 ========================================================
 
-![](http://fens.me/images/book/r2-200.png)
+![](http://fens.me/images/book/r3-200.png)
 
 ## 图书介绍
 
-http://onbook.me/book-r2
+http://fens.me/book-r3
 
 ## 代码
 
-本项目包括了[《R的极客理想-高级开发篇》](http://fens.me/book-r2)一书，所有代码源文件。每个目录对应一个章节，请读者自行下载使用。
+本项目包括了[《R的极客理想-量化投资篇》](http://fens.me/book-r3)一书，所有代码源文件。每个目录对应一个章节，请读者自行下载使用。
 
-作者的第一本书 [《R的极客理想-工具篇》](http://fens.me/book-r1) ，第三本书 [《R的极客理想-量化投资篇》](http://fens.me/book-r3)
+作者的第一本书 [《R的极客理想-工具篇》](http://fens.me/book-r1) ，第二本书 [《R的极客理想-高级开发篇》](http://fens.me/book-r2)
 
 ## 勘误和支持
 
